@@ -1,8 +1,7 @@
 # Traffic Network Analysis Using Graph Theory, Centrality Measures and Network Robustness Analysis
 
-# Traffic Network Analysis Using Graph Theory, Centrality Measures and Network Robustness Analysis
 
-![Traffic Network](figures/betweenness_network.png)
+![Traffic Network](betweenness_network.png)
 
 ## Project Overview
 
